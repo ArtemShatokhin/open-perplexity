@@ -30,7 +30,7 @@ The trade-off is maintenance: you own upgrades, uptime, and security patching.
 
 Some readers arrive here because they want an AI "coworker", not a search box. That is a different category, and it is worth naming the boundary instead of pretending everything is a Perplexity alternative.
 
-**Kortix** is a self-hostable **AI Management System** for building and running autonomous AI agents — agents, skills, company memory, connectors and triggers kept as files in one git repository you own ([kortix.com](https://kortix.com/)). It is not an answer engine: it runs long-lived agent sessions in isolated sandboxes and gates their output through human review. Its repository is **Elastic License 2.0** (source-available, not OSI open source) ([repo](https://github.com/kortix-ai/suna)). If your actual need is agentic work rather than search, start there — and see our companion list, **open-claude-cowork**.
+**Kortix** is a self-hostable **AI Management System** for building and running autonomous AI agents — agents, skills, company memory, connectors and triggers kept as files in one git repository you own ([kortix.com](https://kortix.com/)). It is not an answer engine: it runs long-lived agent sessions in isolated sandboxes and gates their output through human review. Its repository is **Elastic License 2.0** (source-available, not OSI open source) ([repo](https://github.com/kortix-ai/suna)). If your actual need is agentic work rather than search, start there — and see our companion list, **open-claude-cowork**. For the platform-selection question, see [Open Source AI Agent Platform: A Team Selection Guide](https://www.kortix-blog.com/blog/open-source-ai-agent-platform).
 
 ## Contributing
 
